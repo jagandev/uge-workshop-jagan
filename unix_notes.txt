@@ -1,0 +1,224 @@
+    1  name
+    2  uname
+    3  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+    4  brew doctor
+    5  brew install fish
+    6  echo '/user/local/bin/fish' | sudo tee -a /etc/shells
+    7  chsh -s /user/local/bin/fish
+    8  exit
+    9  brew info fish
+   10  fish
+   11  fish
+   12  fish
+   13  fish
+   14  fish
+   15  pwd
+   16  cd
+   17  ls
+   18  pwd
+   19  cd /
+   20  pwd
+   21  ls
+   22  clear
+   23  ls -t
+   24  ls -l
+   25  ls -lt
+   26  ls -r
+   27  ls -ltr
+   28  ls -lt
+   29  ls -LRT
+   30  clear
+   31  ls
+   32  LS
+   33  lr -r
+   34  ls -lt
+   35  man ls
+   36  clear
+   37  man ls
+   38  ls -D
+   39  ls -d
+   40  ls
+   41  man ls
+   42  clear
+   43  ls -d
+   44  man ls
+   45  man ls
+   46  ls -b
+   47  man ls
+   48  clear
+   49  man ls
+   50  cd /users/jagan
+   51  cd /users/ jagan
+   52  cls
+   53  clear
+   54  cd /
+   55  pwd
+   56  cd /users/ jagan
+   57  pwd
+   58  cd jagan
+   59  cls
+   60  clear
+   61  pwd
+   62  cd \users /\jagan
+   63  clear
+   64  pwd
+   65  ls -l
+   66  cd pictures
+   67  ls
+   68  cd ..
+   69  pwd
+   70  cd documents
+   71  ls
+   72  cd..
+   73  cd ..
+   74  clear
+   75  pwd
+   76  ls
+   77  cd library
+   78  ls
+   79  cd ColorPickers
+   80  ls
+   81  ls -l
+   82  clear
+   83  pwd
+   84  ls
+   85  cd ..
+   86  clear
+   87  pwd
+   88  ls
+   89  cd itunes
+   90  ls
+   91  cd itunes
+   92  ls
+   93  ls -l
+   94  cd jagan
+   95  clear
+   96  pwd
+   97  ls
+   98  ls -l
+   99  ls
+  100  ls -l
+  101  clear
+  102  pwd
+  103  clear
+  104  pwd
+  105  cd ..
+  106  pwd
+  107  ls
+  108  cd logs
+  109  ls
+  110  clear
+  111  ls
+  112  ls -l
+  113  man ls -l
+  114  cd .
+  115  pwd
+  116  cd
+  117  pwd
+  118  clear
+  119  ls ~
+  120  pwd
+  121  ls
+  122  cd desktop
+  123  pwd
+  124  ls
+  125  clear
+  126  ls
+  127  pwd
+  128  ls ~
+  129  pwd
+  130  clear
+  131  ls /
+  132  pwd
+  133  ls
+  134  ls /l
+  135  clear
+  136  pwd
+  137  ls /l
+  138  ls /
+  139  clear
+  140  ls /
+  141  pwd
+  142  cd..
+  143  cd users
+  144  clear
+  145  ls
+  146  pwd
+  147  ls /l
+  148  ls
+  149  pwd
+  150  cd..
+  151  cd ..
+  152  cd users
+  153  cd .\Users
+  154  clear
+  155  pwd
+  156  ls
+  157  cd Documents/
+  158  ls -l
+  159  pwd
+  160  ls ~
+  161  pwd
+  162  clear
+  163  pwd
+  164  ls ~
+  165  pwd
+  166  cler
+  167  clear
+  168  pwd
+  169  ls
+  170  ls ~
+  171  cd ..
+  172  ls
+  173  clear
+  174  pwd
+  175  ls
+  176  cd documents
+  177  pwd
+  178  clear
+  179  pwd
+  180  cd ~
+  181  pwd
+  182  ls
+  183  cd documents
+  184  ls
+  185  cd downloads
+  186  cd ~
+  187  clear
+  188  pwd
+  189  ls
+  190  cd documents
+  191  ls
+  192  pwd
+  193  ..\..
+  194  cls
+  195  clear
+  196  pwd
+  197  cd ..\..
+  198  cd ../..
+  199  pwd
+  200   cd jagan
+  201  cls
+  202  clear
+  203  pwd
+  204  cd
+  205  pwd
+  206  clear
+  207  cd ~
+  208  pwd
+  209  pwd
+  210  ls
+  211  cd desktop
+  212  pwd
+  213  cd
+  214  pwd
+  215  brew update
+  216  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+  217  brew update
+  218  brew doctor
+  219  fish
+  220  history
+  221  history | less
+  222  clear
+  223  man less
+  <<<<<<<Jagan is awesome>>>>>>
